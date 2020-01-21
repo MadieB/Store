@@ -1,0 +1,27 @@
+body{
+    background-image:url(download.png);
+    color:darkred;
+    text-align: center;
+    font-family:cursive;
+}
+header{
+    color:white;
+    text-decoration-line: underline;
+    font-size: 40px;
+}
+section{
+    background-color:white;
+    width:auto;
+    margin-left:300px;
+    margin-right:300px;
+    border: 5px solid;
+    border-color:black;
+}
+.item{
+    font-family: fantasy;
+}
+.cart{
+    background-color:black;
+    color:white;
+    font-family:serif;
+}
