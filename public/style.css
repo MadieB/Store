@@ -2,11 +2,12 @@ body{
     background-image:url(download.png);
     color:darkred;
     text-align: center;
-    font-family:cursive;
+    
 }
 header{
     color:white;
     text-decoration-line: underline;
+    font-family:cursive;
     font-size: 40px;
 }
 section{
@@ -18,5 +19,12 @@ section{
     border-color:black;
 }
 .item{
+   
     font-family: fantasy;
 }
+img{
+    width: 60%;
+    height:60%;
+}
+
+S
